@@ -11,3 +11,4 @@ product = {'name': 'Samsung Galaxy S10', 'stock': 8, 'price': 50000.0, 'discount
 product['with_discount'] = discounted(product['price'], product['discount'])
 
 print(product)
+print(product)
